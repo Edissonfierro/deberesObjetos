@@ -21,3 +21,5 @@ export function decodedValue(colors: string[]): number {
     const result = (firstValue * 10) + secondValue;
     return result;
 }
+
+//
