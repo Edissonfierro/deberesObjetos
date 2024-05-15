@@ -1,0 +1,41 @@
+Operaciones CRUD:
+Create (Crear):
+
+Añade nuevos registros a una base de datos.
+SQL: INSERT INTO.
+API RESTful: Método POST.
+Read (Leer):
+
+Recupera datos de la base de datos.
+SQL: SELECT.
+API RESTful: Método GET.
+Update (Actualizar):
+
+Modifica registros existentes en una base de datos.
+SQL: UPDATE.
+API RESTful: Métodos PUT y PATCH.
+Delete (Eliminar):
+
+Elimina registros de una base de datos.
+SQL: DELETE.
+API RESTful: Método DELETE.
+Implementación en Diferentes Contextos:
+Bases de Datos Relacionales:
+
+Utilizan SQL para realizar operaciones CRUD.
+Ejemplo: MySQL, PostgreSQL.
+APIs RESTful:
+
+Utilizan métodos HTTP para realizar operaciones CRUD.
+Ejemplo: Express.js en Node.js.
+Frameworks y Librerías:
+
+Simplifican la implementación de CRUD.
+Ejemplo: Sequelize con Express.js.
+Mejores Prácticas:
+Validación de Datos: Asegura la integridad y seguridad de los datos.
+Manejo de Errores: Proporciona mensajes claros y gestiona fallos adecuadamente.
+Seguridad: Protege contra ataques y accesos no autorizados.
+Optimización de Consultas: Mejora el rendimiento de las operaciones.
+Uso de Transacciones: Asegura la atomicidad y consistencia de las operaciones.
+Documentación: Facilita el desarrollo y mantenimiento del sistema.
