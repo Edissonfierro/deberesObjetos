@@ -1,0 +1,19 @@
+¿Qué sentencia SQL se utiliza para crear un nuevo registro en una tabla?
+
+A) SELECT
+B) INSERT
+C) UPDATE
+Respuesta correcta: B
+
+En una API RESTful, ¿qué método HTTP generalmente se utiliza para la operación Update?
+
+A) DELETE
+B) PATCH
+C) GET
+Respuesta correcta: B (También se acepta PUT)
+En una API RESTful, ¿qué método HTTP generalmente se utiliza para la operación Create?
+
+A) GET
+B) POST
+C) DELETE
+Respuesta correcta: B
